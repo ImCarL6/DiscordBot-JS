@@ -1,7 +1,7 @@
 # DiscordBot
 Um bot para meu servidor do discord desenvolvido em JavaScript + Node.js
 
-Esse bot foi criado com o intuito de estudar JavaScript e de uma maneira divertida e implementar no meu servidor pessoal com meus amigos.
+Esse bot foi criado com o intuito de estudar JavaScript de uma maneira divertida e implementar no meu servidor pessoal com meus amigos.
 
 O bot utiliza a biblioteca discord.js para se comunicar com a API do discord e possui, até o momento, as funcionalidades:
 
