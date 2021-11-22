@@ -12,13 +12,14 @@ O bot utiliza a biblioteca discord.js para se comunicar com a API do discord e p
  
  Comandos de chat com prefixo "!" 
  
- ![commands](https://i.imgur.com/ji78Zb9.mp4)
- 
+ ![commands](https://user-images.githubusercontent.com/90780691/142929266-e31bbf3b-6f60-4faa-8d0e-d11944790aee.gif)
+
  
  Um sistema de registro de "ponto eletrônico" (uma brincadeira entre os meus amigos)
  
  ![ponto](https://i.imgur.com/JaQMKPD.png)
- ![ponto_log](https://i.imgur.com/1jErJtw.mp4)
+![ponto](https://user-images.githubusercontent.com/90780691/142929342-d94fe5a7-817d-4fd5-abdf-d872cc5693f4.gif)
+
  
  
  Sistema de streaming de audio do youtube
