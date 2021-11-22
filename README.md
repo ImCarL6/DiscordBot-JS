@@ -25,3 +25,6 @@ O bot utiliza a biblioteca discord.js para se comunicar com a API do discord e p
  Sistema de streaming de audio do youtube
  
  ![music](https://i.imgur.com/mFCGFcI.png)
+
+
+Mais comandos e funcionalidades virão com o tempo
